@@ -1,0 +1,14 @@
+Simple IMAP CLIENT gebruiken voor de email koppeling:
+https://code.msdn.microsoft.com/windowsdesktop/Simple-IMAP-CLIENT-b249d2e6
+
+Voorbeeld email sturen binnen Visual studio:
+https://code.msdn.microsoft.com/vstudio/Email-Sending-in-C-1ce656b5
+
+Bestand opslaan en ophalen uit de cloud:
+https://developers.google.com/drive/v3/web/quickstart/dotnet
+
+NoSql database
+https://www.mongodb.com/nosql-explained
+
+
+11 juni einde
