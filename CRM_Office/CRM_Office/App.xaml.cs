@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using CRM_Office.Controller;
 
 namespace CRM_Office
 {
@@ -13,5 +14,9 @@ namespace CRM_Office
     /// </summary>
     public partial class App : Application
     {
+        private void ApplicationStartup(object sender, StartupEventArgs e)
+        {
+            MainController.Instance.ViewLogin();
+        }
     }
 }
